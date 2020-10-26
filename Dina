@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang ="en"> 
+<head>
+    <title>Lucrare de control. Varianta III</title>
+   
+</head>
+<body>
+    Test de evaluare HTML Nr.1. Varianta III. 26.10.2020
+<ol>
+
+    <li ol type = "1" start ="5">Unu</li>
+    <li  ol type = "1" start ="5">Doi</li>
+    <li  ol type = "1" start ="5">Trei</li>
+    <li  ol type = "1" start ="5">Patru</li>
+    <li  ol type = "1" start ="5">Cinci</li>
+</ol>
+<table border="1": align="center" : width="500 px">
+    <tr align="center">
+        
+        <td>Rand1, cel 1</td>
+        <td>Rand1, cel 2</td>
+        <td>Rand1, cel 3</td>
+    </tr>
+    <tr align="center">
+        
+        <td>Rand1, cel 1</td>
+        <td>Rand1, cel 2</td>
+        <td>Rand1, cel 3</td>
+    </tr>
+</table>
+
+<img src="img/7408c5467cc7f39f31067097a33ebb7f.jpg" alt="Imagine" : height="200"  title = "Acesta este un hint">
+</body>
+</html>
